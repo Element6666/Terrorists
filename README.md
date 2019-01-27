@@ -1,0 +1,2 @@
+# Terrorists
+Terrorists discord bot
